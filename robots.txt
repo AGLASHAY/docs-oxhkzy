@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-qrdwo2.aisubito.it/sitemap.xml
